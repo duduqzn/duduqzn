@@ -1,6 +1,6 @@
 ## tmj 👋
 
-slk meu nome e eduardo
+slk meu nome e Eduardo
 
 to no alura
 aqui faços meus projeto
