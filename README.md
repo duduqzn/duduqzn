@@ -1,10 +1,10 @@
 ## tmj 👋
 
-slk meu nome e Eduardo
+. slk meu nome e Eduardo
 
-to no alura
+. to no alura
 aqui faços meus projeto
 
-@duduqzn insta
+. @duduqzn insta
 
 ![](https://media1.tenor.com/m/sJR3938-DJsAAAAd/messi-leonalmessi.gif)
