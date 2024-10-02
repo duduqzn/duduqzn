@@ -7,5 +7,4 @@ aqui faços meus projeto
 
 @duduqzn insta
 
-![]()
-(https://media1.tenor.com/m/sJR3938-DJsAAAAd/messi-leonalmessi.gif)
+![](https://media1.tenor.com/m/sJR3938-DJsAAAAd/messi-leonalmessi.gif)
